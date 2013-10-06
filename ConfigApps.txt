@@ -1,0 +1,25 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: ConfigApps1_0_2.zip
+       Short Description: Configure OS/2 default internet apps
+        Long Description: Configure default Web Browser.
+                          Other settings are new settings that no 
+                          programs currently use, this is a proposed OS enhancement.
+1.1.1 Added IRC settings.
+      Corrected Browser parameters ini setting to match URL objects
+      Proposed directory
+           for placement: /pub/os2/apps/misc
+
+               Your name: Aaron Lawrence 
+           Email address: aaronl at consultant dot com
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: 
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: 
+ Additional requirements: 
+
